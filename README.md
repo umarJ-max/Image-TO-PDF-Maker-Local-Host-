@@ -57,4 +57,4 @@ This tool was originally a Vercel-hosted web app but batch conversion hit Vercel
 
 ## Author
 
-Built by **Umar J**
+Built by **umarJ-max**
